@@ -27,4 +27,9 @@
 
 ### Output:
 
+![image](https://github.com/user-attachments/assets/8d85ca71-98a0-475f-b697-7aeb762259ef)
+
+![image](https://github.com/user-attachments/assets/5b3d4dfc-e74f-44b5-a454-50a8e1cbc899)
+
 ### Result:
+Thus,successfully executed to create a project for Sentimental Analysis on Any Dataset a Using Rapidminer.
